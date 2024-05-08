@@ -17,9 +17,10 @@ body{
 }
 
 .universal img{
-    width: 100%;
+    width: 90%;
     height: 250px;
-    margin-bottom: 15px;
+    margin: 15px;
+    border-radius: 10px;
     
 }
 table{
